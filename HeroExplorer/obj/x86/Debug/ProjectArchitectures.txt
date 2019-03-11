@@ -1,0 +1,1 @@
+E:\Projects\HeroExplorer\HeroExplorer\HeroExplorer.csproj;x86
