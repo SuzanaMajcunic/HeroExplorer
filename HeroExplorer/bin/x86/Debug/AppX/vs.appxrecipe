@@ -30,13 +30,13 @@
     <AppXManifest Include="E:\Projects\HeroExplorer\HeroExplorer\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2019-03-11T17:55:36.630</Modified>
+      <Modified>2019-03-12T10:36:21.149</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="E:\Projects\HeroExplorer\HeroExplorer\bin\x86\Debug\HeroExplorer.exe">
       <PackagePath>entrypoint\HeroExplorer.exe</PackagePath>
-      <Modified>2019-03-11T17:55:34.990</Modified>
+      <Modified>2019-03-12T10:36:19.944</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Edith\.nuget\packages\microsoft.csharp\4.3.0\lib\netcore50\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -562,11 +562,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\HeroExplorer\HeroExplorer\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2019-03-11T17:55:34.724</Modified>
+      <Modified>2019-03-12T10:36:19.615</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\HeroExplorer\HeroExplorer\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2019-03-11T17:55:34.724</Modified>
+      <Modified>2019-03-12T10:36:19.616</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17134.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -578,7 +578,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="E:\Projects\HeroExplorer\HeroExplorer\bin\x86\Debug\Core\HeroExplorer.exe">
       <PackagePath>HeroExplorer.exe</PackagePath>
-      <Modified>2019-03-11T17:55:36.620</Modified>
+      <Modified>2019-03-12T10:36:21.137</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
